@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "learning-app",
+    "slug": "learning-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
